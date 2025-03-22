@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8618A42F-71F0-4BE7-9137-710B5AE06982}|NoteToMusic\\NoteToMusic.csproj|C:\\Users\\yigit\\Desktop\\NoteToMusic\\notetomusic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8618A42F-71F0-4BE7-9137-710B5AE06982}|NoteToMusic\\NoteToMusic.csproj|solutionrelative:notetomusic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8618A42F-71F0-4BE7-9137-710B5AE06982}|NoteToMusic\\NoteToMusic.csproj|c:\\users\\yigit\\desktop\\notetomusic\\notetomusic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8618A42F-71F0-4BE7-9137-710B5AE06982}|NoteToMusic\\NoteToMusic.csproj|solutionrelative:notetomusic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8618A42F-71F0-4BE7-9137-710B5AE06982}|NoteToMusic\\NoteToMusic.csproj|C:\\Users\\yigit\\Desktop\\NoteToMusic\\notetomusic\\convertextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8618A42F-71F0-4BE7-9137-710B5AE06982}|NoteToMusic\\NoteToMusic.csproj|solutionrelative:notetomusic\\convertextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8618A42F-71F0-4BE7-9137-710B5AE06982}|NoteToMusic\\NoteToMusic.csproj|C:\\Users\\yigit\\Desktop\\NoteToMusic\\notetomusic\\audiveris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8618A42F-71F0-4BE7-9137-710B5AE06982}|NoteToMusic\\NoteToMusic.csproj|solutionrelative:notetomusic\\audiveris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8618A42F-71F0-4BE7-9137-710B5AE06982}|NoteToMusic\\NoteToMusic.csproj|C:\\Users\\yigit\\Desktop\\NoteToMusic\\notetomusic\\naudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8618A42F-71F0-4BE7-9137-710B5AE06982}|NoteToMusic\\NoteToMusic.csproj|solutionrelative:notetomusic\\naudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8618A42F-71F0-4BE7-9137-710B5AE06982}|NoteToMusic\\NoteToMusic.csproj|C:\\Users\\yigit\\Desktop\\NoteToMusic\\notetomusic\\tomidi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8618A42F-71F0-4BE7-9137-710B5AE06982}|NoteToMusic\\NoteToMusic.csproj|solutionrelative:notetomusic\\tomidi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToMIDI.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\NoteToMusic\\ToMIDI.cs",
+              "RelativeDocumentMoniker": "NoteToMusic\\ToMIDI.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\NoteToMusic\\ToMIDI.cs",
+              "RelativeToolTip": "NoteToMusic\\ToMIDI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:52:35.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NAudio.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\NoteToMusic\\NAudio.cs",
+              "RelativeDocumentMoniker": "NoteToMusic\\NAudio.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\NoteToMusic\\NAudio.cs",
+              "RelativeToolTip": "NoteToMusic\\NAudio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:52:36.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\NoteToMusic\\Form1.cs",
+              "RelativeDocumentMoniker": "NoteToMusic\\Form1.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\NoteToMusic\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "NoteToMusic\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:52:46.957Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Audiveris.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\NoteToMusic\\Audiveris.cs",
+              "RelativeDocumentMoniker": "NoteToMusic\\Audiveris.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\NoteToMusic\\Audiveris.cs",
+              "RelativeToolTip": "NoteToMusic\\Audiveris.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:52:38.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvertExtension.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\NoteToMusic\\ConvertExtension.cs",
+              "RelativeDocumentMoniker": "NoteToMusic\\ConvertExtension.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\NoteToMusic\\ConvertExtension.cs",
+              "RelativeToolTip": "NoteToMusic\\ConvertExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:52:37.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\NoteToMusic\\Form1.cs",
+              "RelativeDocumentMoniker": "NoteToMusic\\Form1.cs",
+              "ToolTip": "C:\\Users\\yigit\\Desktop\\NoteToMusic\\NoteToMusic\\Form1.cs",
+              "RelativeToolTip": "NoteToMusic\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:52:51.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
